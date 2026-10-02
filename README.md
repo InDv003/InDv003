@@ -19,7 +19,7 @@
 - **Systems & Servers:** Game Server Admin, Local Server Hosting, Network Configs
 - **Hardware & OS:** PC Building, Hardware Tweaking, Windows / Linux
 ---
-- ⚡ *Always learning new technologies, setting up servers, and optimizing performance!*
+- ⚡ **Always learning new technologies, setting up servers, and optimizing performance!**
 
 
 ## 📊 GitHub Stats & Trophies
